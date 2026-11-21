@@ -1,0 +1,1 @@
+{"tokens":324,"vocab_size":112,"pairs":323,"weights":12544,"seed":0,"learning_rate":1.0,"steps":20000,"loss_start":4.7195,"loss_end":1.1456,"loss_random_guess":4.7185,"start_word":"the","snapshot_steps":[0,10,50,100,250,500,1000,2000,5000,10000,20000],"temperatures":[0.3,0.7,1.0,1.5],"decimals":4,"text_files":["data/ocean.txt","data/space.txt"]}
